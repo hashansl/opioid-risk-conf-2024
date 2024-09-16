@@ -1,5 +1,3 @@
-Here’s a clean and clear README file for your opioid overdose prediction project:
-
 ---
 
 # Opioid Overdose Prediction Using Persistence Images
